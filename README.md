@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Project-Developer-Job-Application-Tracker
 =======
 # Getting Started with Create React App
